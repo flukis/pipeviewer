@@ -1,3 +1,6 @@
+# Credit
+This application basically is replication from this repo: [PacktPublishing](https://github.com/PacktPublishing/Hands-On-Systems-Programming-with-Rust) with some addition from me.
+
 # Pipeviewer Using Rust
 
 ## Introduction
