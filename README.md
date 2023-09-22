@@ -3,7 +3,6 @@ This application basically is replication from this repo: [PacktPublishing](http
 
 # Pipeviewer Using Rust
 
-## Introduction
 **Pipeviewer** is a powerful command-line utility designed to provide real-time insights into processes and I/O operations on a Linux system. It excels in scenarios where processes, such as `tar` and others, do not inherently offer progress tracking.
 
 With Pipeviewer, you can:
@@ -16,9 +15,5 @@ Whether you're dealing with complex data transfers or simply want to keep a clos
 
 Yeah, this is basically `pv` progress monitor tool writen in rust, all be writen in rust hahaha.
 
-[x] Rust (on going)
-- [x] Show progress and time
-- [ ] Show total, give color, and some fancy bar progress 
 ![Screenshot from result](https://raw.githubusercontent.com/flukis/pipeviewer/main/rust/assets/Screenshot%20from%202023-09-22%2011-31-05.png)
 
-[ ] Go
